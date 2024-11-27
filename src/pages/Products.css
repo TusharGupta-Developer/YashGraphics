@@ -11,6 +11,7 @@
 .products>h2{
     text-align: center;
     width: 100vw;
+    margin-bottom: 0;
 }
 
 .cards{

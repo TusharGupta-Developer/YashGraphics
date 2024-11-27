@@ -5,6 +5,8 @@ body {
   padding: 0;
   background-color: #f8f8f8;
   color: #333;
+  display: grid;
+  gap: 20px;
 }
 
 a {
